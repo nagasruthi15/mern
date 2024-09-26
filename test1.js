@@ -7,7 +7,6 @@ function Test(){
     return(
         <div>
             <h2>Counter value is{counter}</h2>
-<button onClick={updateCount}>change</button>
         </div>
     )
 }
